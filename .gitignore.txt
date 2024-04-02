@@ -4,5 +4,5 @@
 # Ignore log files
 *.out
 
-# Ignore a specific directory
+# Ignore Python compiled bytecode files
 *.pyc
